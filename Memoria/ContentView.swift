@@ -30,8 +30,6 @@ struct CardView: View {
     }
 }
 
-aaa
-
 
 
 
